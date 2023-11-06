@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME ASSIGNMENT #2</title>
+    <style>
+        body {
+            background-color: #9FAD97;
+        }
+    </style>
+
+</head>
+
+<body>
+    <p align="left">This paragraph is left alighned.</p>
+    <p align="center"> This paragraph is center alighned.</p>
+    <p align="right">This paragraph is right alighned.</p>
+    <p style="color:green">This text is Green.</p>
+    <p>
+        <font face="Trebuchet MS">This is Trebuchet.</font>
+    </p>
+    <p>
+        <font size="+6">This is big </font>
+    </p>
+    <p>
+        <font color="#F7EEEE" face="arial, helvicta, sans-serif" size="1">
+            This text is white, arial and small.
+        </font>
+    </p>
+    <p>
+        This is a link to
+        <a href="http://www.d125.org">Stevenson High School.</a>
+    </p>
+    <p>
+        This is an email link to
+        <a href="mailto:ksmith@d125.org">Mrs Smith</a>
+    </p>
+    <p align="center">
+        <img src="https://th.bing.com/th?id=OIP.sLl3j6t1InBeGSGPfG1xrwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+            alt="Error loading image" style="width:200px;height:300px;">
+        <br>
+        <a href="http://www.d125.org" class="btn"> SHS </a>
+        <style>
+            .btn {
+                font-size: 15px;
+                color: #fff;
+                font-weight: bold;
+                background: #85d647;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                max-width: 60px;
+                width: 100%;
+                height: 20px;
+            }
+        </style>
+    </p>
+</body>
+
+</html>
