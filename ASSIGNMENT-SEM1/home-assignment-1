@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME ASSIGNMENT #1</title>
+</head>
+
+<body>
+    <h1>THIS IS HEADING 1</h1>
+    <h2>THIS IS HEADING 2</h2>
+    <h3>THIS IS HEADING 3</h3>
+    <h4>THIS IS HEADING 4</h4>
+    <h5>THIS IS HEADING 5</h5>
+    <h6>THIS IS HEADING 6</h6>
+    <p>
+        THIS IS PARAGRAPH. THIS IS A PARAGRAPH. THIS IS A PARAGRAPH.
+    </p>
+    <P>
+        THIS IS ANOTHER PARAGRAPH. THIS IS ANOTHER PARAGRAPH. THIS IS ANOTHER PARAGRAPH.
+    </P>
+    <P>
+        THIS IS A LINE BREAK <br>
+        THIS IS A LINE BREAK <br>
+        THIS IS A LINE BREAK <br>
+    </P>
+    <div>
+        <p>THIS IS AN ORDERED LIST.</p>
+        <ol>
+            <li>Iteam 1</li>
+            <li>Iteam 2</li>
+            <li>Iteam 3</li>
+            <li>Iteam 4</li>
+            <li>Iteam 5</li>
+        </ol>
+    </div>
+    <div>
+        <p>THIS IS AN UNORDERED LIST.</p>
+        <ul>
+            <li>Iteam 1</li>
+            <li>Iteam 2</li>
+            <li>Iteam 3</li>
+            <li>Iteam 4</li>
+            <li>Iteam 5</li>
+            <p> <B>THIS TEXT IS BOLD</B></p>
+            <p><i>THIS TEXT IS ITALIC</i></p>
+        </ul>
+    </div>
+
+</body>
+
+</html>
